@@ -1,0 +1,9 @@
+body {background-image: url(222.jpg); margin: 1cm}
+h1 {font-family: Arial, sans-serif; color: green; font-style: italic; font-size: 36pt; text-align: center}
+h2 {color: brown; font-family: Arial, sans-serif; font-style: italic; text-align: center}
+p {font-family: Times New Roman, serif; font-size: 18pt; text-align: justify; line-height:1.5em}
+#c1 {clear: left}
+#c2 {clear: right}
+#x {border-width: 4pt; border-style: ridge; border-color: red; margin: 0cm 0cm 1cm 1cm; wigth: 200px; height: 250px; float: right}
+#y {border-width: 4pt; border-style: ridge; border-color: red; margin: 0cm 1cm 1cm 0cm; wigth: 250px; height: 200px; float: left}
+hr {width: 100%; height: 5px; background-color: green}
